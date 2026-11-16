@@ -1,0 +1,11 @@
+{
+  "id": "anantkashid/virtual-bg-prep",
+  "title": "virtual-bg-prep",
+  "code_file": "prep.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "dataset_sources": ["laurentmih/aisegmentcom-matting-human-datasets"]
+}

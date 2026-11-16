@@ -1,0 +1,27 @@
+[{"stream_name":"stdout","time":10.403991805,"data":"34425 images in /kaggle/input/datasets/laurentmih/aisegmentcom-matting-human-datasets/clip_img  (9s)\n"}
+,{"stream_name":"stdout","time":13.777019913,"data":"0/34425  (12s)\n"}
+,{"stream_name":"stdout","time":53.71774617,"data":"2000/34425  (52s)\n"}
+,{"stream_name":"stdout","time":93.812588224,"data":"4000/34425  (92s)\n"}
+,{"stream_name":"stdout","time":133.508867768,"data":"6000/34425  (132s)\n"}
+,{"stream_name":"stdout","time":173.810705604,"data":"8000/34425  (172s)\n"}
+,{"stream_name":"stdout","time":217.39558214,"data":"10000/34425  (216s)\n"}
+,{"stream_name":"stdout","time":259.42341863,"data":"12000/34425  (258s)\n"}
+,{"stream_name":"stdout","time":296.291797378,"data":"14000/34425  (295s)\n"}
+,{"stream_name":"stdout","time":332.806115791,"data":"16000/34425  (331s)\n"}
+,{"stream_name":"stdout","time":370.103437885,"data":"18000/34425  (369s)\n"}
+,{"stream_name":"stdout","time":406.925248482,"data":"20000/34425  (405s)\n"}
+,{"stream_name":"stdout","time":443.679424323,"data":"22000/34425  (442s)\n"}
+,{"stream_name":"stdout","time":480.338037414,"data":"24000/34425  (479s)\n"}
+,{"stream_name":"stdout","time":517.318825782,"data":"26000/34425  (516s)\n"}
+,{"stream_name":"stdout","time":554.319666999,"data":"28000/34425  (553s)\n"}
+,{"stream_name":"stdout","time":590.781258199,"data":"30000/34425  (589s)\n"}
+,{"stream_name":"stdout","time":627.432545402,"data":"32000/34425  (626s)\n"}
+,{"stream_name":"stdout","time":663.776717893,"data":"34000/34425  (662s)\n"}
+,{"stream_name":"stdout","time":672.319686477,"data":"saved 34425 crops, 1.15 GB  (671s)\n"}
+,{"stream_name":"stderr","time":675.511523522,"data":"/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":675.511602992,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":675.934978047,"data":"/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":675.935010364,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":677.755934502,"data":"[NbConvertApp] Converting notebook __script__.ipynb to html\n"}
+,{"stream_name":"stderr","time":679.050886047,"data":"[NbConvertApp] Writing 293713 bytes to __results__.html\n"}
+]
